@@ -6,6 +6,17 @@ getBrowserOS is 2 very simple PHP functions to fetch the Browser and Operating S
 It has been split into 2 seperate functions to give the option of which information you require depending on your situation.
 
 
+How-To
+======
+
+<ul>
+  <li>Host getBrowserOS.php somewhere on your server or put into a global PHP file</li>
+  <li>Include getBrowserOS.php or the global PHP file on the pages you wish to use these functions</li>
+  <li>Assign the functions return values to variables as shown in index.php</li>
+  <li>Then display, store or use the information how ever you wish</li>
+</ul>
+
+
 Reliability
 ===========
 
