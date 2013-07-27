@@ -29,3 +29,10 @@ Author
 Joe Mottershaw<br />
 Cloud Eight<br />
 http://www.cloud-eight.com
+
+
+Credits
+======
+
+Palacsint on Code Review for simplifying the functions<br />
+http://palacsint.hu/
